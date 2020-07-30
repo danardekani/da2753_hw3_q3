@@ -18,15 +18,17 @@ Follow the syntax as demonstrated in the code below:\
 
 include <iostream> \
 include <cmath>\
-   using namespace std;
-int main() { double x = 2.0;
-       double sqrtResult;
-       sqrtResult = sqrt(x);
-       cout<<sqrtResult<<endl;
-       return 0;
+   using namespace std;\
+int main() { double x = 2.0;\
+       double sqrtResult;\
+       sqrtResult = sqrt(x);\
+       cout<<sqrtResult<<endl;\
+       return 0;\
 }
+
 Note that you first need to include the cmath library, and then you can call the sqrt function, passing the argument that you want to calculate the square root of, enclosed in parentheses.
-Your program should interact with the user exactly as it shows in the following example: Please enter value of a: 1
-Please enter value of b: 4
-Please enter value of c: 4
+Your program should interact with the user exactly as it shows in the following example:\
+Please enter value of a: 1\
+Please enter value of b: 4\
+Please enter value of c: 4\
 This equation has a single real solution x=-2.0
