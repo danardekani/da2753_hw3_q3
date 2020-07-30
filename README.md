@@ -30,3 +30,6 @@ Problem Solving Process:
     2. if discriminant == 0, then the roots are real and equal (one real solution).
     3. if discriminant < 0, then the root is complex and different (two complex solutions).
 6. We can then test our computed discriminant against these three cases.
+
+A really good video from the Khan academy on discriminant for types of solutions for a quadratic:
+https://www.khanacademy.org/math/in-in-grade-10-ncert/x573d8ce20721c073:quadratic-equations/x573d8ce20721c073:nature-of-roots/v/discriminant-for-types-of-solutions-for-a-quadratic
